@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../BLL/BLL.csproj" />
+  <Project Path="../DAO/DAO.csproj" />
+  <Project Path="../ENTITIES/ENTITIES.csproj" />
+  <Project Path="UI.csproj" />
+</Solution>
